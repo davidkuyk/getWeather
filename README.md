@@ -4,7 +4,7 @@ This Python program uses JSON to print the weather for a location from OpenWeath
 
 To make this program work for you:
 
-1. Create an account on openweathermap.org.
+1. Create an account at: https://home.openweathermap.org/users/sign_up
 2. Generate an API key on the following page and paste into the program: https://home.openweathermap.org/api_keys
 3. Paste the longitude and latitude of your current location into the program.
 4. Choose an API and paste the URL into the program: https://openweathermap.org/api
